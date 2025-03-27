@@ -21,8 +21,8 @@ Automated trading bot for swapping tokens on the 0G Testnet. Supports ETH, USDT,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zidanaetrna/0g-swap.git
-   cd 0g-swap
+   git clone https://github.com/zidanaetrna/0g-auto.git
+   cd 0g-auto
    ```
 
 2. Install dependencies:
