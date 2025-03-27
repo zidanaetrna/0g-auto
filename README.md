@@ -1,9 +1,6 @@
 ```markdown
 # 0G Swap Auto-Bot 🤖
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.x-green)
-
 Automated trading bot for swapping tokens on the 0G Testnet. Supports ETH, USDT, and BTC token pairs with configurable swap amounts and iterations.
 
 ## Features ✨
