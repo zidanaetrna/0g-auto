@@ -20,7 +20,7 @@ Automated trading bot for swapping tokens on the 0G Testnet. Supports ETH, USDT,
 - npm/yarn
 - Private keys stored in `private_keys.txt`
 - Testnet ETH (A0GI) for gas fees
-
+```
 ## Installation ⚙️
 
 1. Clone the repository:
