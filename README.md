@@ -1,5 +1,3 @@
-Here's a professional `README.md` for your 0G Swap Auto-Bot:
-
 ```markdown
 # 0G Swap Auto-Bot 🤖
 
